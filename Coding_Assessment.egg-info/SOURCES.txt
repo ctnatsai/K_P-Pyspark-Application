@@ -1,0 +1,8 @@
+README.md
+kommatiparadataprepapp.py
+setup.py
+Coding_Assessment.egg-info/PKG-INFO
+Coding_Assessment.egg-info/SOURCES.txt
+Coding_Assessment.egg-info/dependency_links.txt
+Coding_Assessment.egg-info/requires.txt
+Coding_Assessment.egg-info/top_level.txt

@@ -1,0 +1,624 @@
+   2023-11-08 18:32:46,865 - KommatiParaDataPrepApp - INFO - Running the application
+2023-11-08 18:32:53,976 - KommatiParaDataPrepApp - INFO - Reading the input datasets
+2023-11-08 18:33:01,350 - KommatiParaDataPrepApp - INFO - Datasets read successfully
+2023-11-08 18:33:01,351 - KommatiParaDataPrepApp - INFO - Staging the input datasets
+2023-11-08 18:33:01,352 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 18:33:01,352 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column country and criteria ['United Kingdom', 'Netherlands']
+2023-11-08 18:33:01,430 - KommatiParaDataPrepApp - INFO - Dataset filtered successfully
+2023-11-08 18:33:01,444 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 18:33:01,445 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 18:33:01,445 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column None and criteria None
+2023-11-08 18:33:01,462 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 18:33:01,463 - KommatiParaDataPrepApp - INFO - Datasets staged successfully
+2023-11-08 18:33:01,463 - KommatiParaDataPrepApp - INFO - Integrating the two input datasets
+2023-11-08 18:33:01,537 - KommatiParaDataPrepApp - INFO - Datasets integrated successfully
+2023-11-08 18:33:01,537 - KommatiParaDataPrepApp - INFO - Transforming the dataset
+2023-11-08 18:33:01,537 - KommatiParaDataPrepApp - INFO - Renaming columns in the dataset
+2023-11-08 18:33:01,579 - KommatiParaDataPrepApp - INFO - Columns renamed successfully
+2023-11-08 18:33:01,580 - KommatiParaDataPrepApp - INFO - Dataset transformed successfully
+2023-11-08 18:33:03,217 - KommatiParaDataPrepApp - INFO - Application run successfully
+2023-11-08 20:07:24,554 - KommatiParaDataPrepApp - INFO - Running the application
+2023-11-08 20:07:32,181 - KommatiParaDataPrepApp - INFO - Reading the input datasets
+2023-11-08 20:07:40,474 - KommatiParaDataPrepApp - INFO - Datasets read successfully
+2023-11-08 20:07:40,475 - KommatiParaDataPrepApp - INFO - Staging the input datasets
+2023-11-08 20:07:40,475 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 20:07:40,475 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column country and criteria ['United Kingdom', 'Netherlands']
+2023-11-08 20:07:40,559 - KommatiParaDataPrepApp - INFO - Dataset filtered successfully
+2023-11-08 20:07:40,576 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 20:07:40,576 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 20:07:40,576 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column None and criteria None
+2023-11-08 20:07:40,595 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 20:07:40,595 - KommatiParaDataPrepApp - INFO - Datasets staged successfully
+2023-11-08 20:07:40,595 - KommatiParaDataPrepApp - INFO - Integrating the two input datasets
+2023-11-08 20:07:40,680 - KommatiParaDataPrepApp - INFO - Datasets integrated successfully
+2023-11-08 20:07:40,680 - KommatiParaDataPrepApp - INFO - Transforming the dataset
+2023-11-08 20:07:40,680 - KommatiParaDataPrepApp - INFO - Renaming columns in the dataset
+2023-11-08 20:07:40,725 - KommatiParaDataPrepApp - INFO - Columns renamed successfully
+2023-11-08 20:07:40,725 - KommatiParaDataPrepApp - INFO - Dataset transformed successfully
+2023-11-08 20:07:42,185 - KommatiParaDataPrepApp - INFO - Application run successfully
+2023-11-08 20:35:11,913 - KommatiParaDataPrepApp - INFO - Running the application
+2023-11-08 20:35:18,743 - KommatiParaDataPrepApp - INFO - Reading the input datasets
+2023-11-08 20:35:26,564 - KommatiParaDataPrepApp - INFO - Datasets read successfully
+2023-11-08 20:35:26,565 - KommatiParaDataPrepApp - INFO - Staging the input datasets
+2023-11-08 20:35:26,565 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 20:35:26,565 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column country and criteria ['United Kingdom', 'Netherlands']
+2023-11-08 20:35:26,635 - KommatiParaDataPrepApp - INFO - Dataset filtered successfully
+2023-11-08 20:35:26,646 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 20:35:26,647 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 20:35:26,647 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column None and criteria None
+2023-11-08 20:35:26,661 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 20:35:26,661 - KommatiParaDataPrepApp - INFO - Datasets staged successfully
+2023-11-08 20:35:26,661 - KommatiParaDataPrepApp - INFO - Integrating the two input datasets
+2023-11-08 20:35:26,722 - KommatiParaDataPrepApp - INFO - Datasets integrated successfully
+2023-11-08 20:35:26,722 - KommatiParaDataPrepApp - INFO - Transforming the dataset
+2023-11-08 20:35:26,722 - KommatiParaDataPrepApp - INFO - Renaming columns in the dataset
+2023-11-08 20:35:26,757 - KommatiParaDataPrepApp - INFO - Columns renamed successfully
+2023-11-08 20:35:26,757 - KommatiParaDataPrepApp - INFO - Dataset transformed successfully
+2023-11-08 20:35:28,045 - KommatiParaDataPrepApp - INFO - Application run successfully
+2023-11-08 20:41:30,961 - KommatiParaDataPrepApp - INFO - Running the application
+2023-11-08 20:41:36,174 - KommatiParaDataPrepApp - INFO - Reading the input datasets
+2023-11-08 20:41:41,019 - KommatiParaDataPrepApp - INFO - Datasets read successfully
+2023-11-08 20:41:41,019 - KommatiParaDataPrepApp - INFO - Staging the input datasets
+2023-11-08 20:41:41,019 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 20:41:41,019 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column country and criteria ['United Kingdom', 'Netherlands']
+2023-11-08 20:41:41,064 - KommatiParaDataPrepApp - INFO - Dataset filtered successfully
+2023-11-08 20:41:41,074 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 20:41:41,074 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 20:41:41,074 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column None and criteria None
+2023-11-08 20:41:41,083 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 20:41:41,083 - KommatiParaDataPrepApp - INFO - Datasets staged successfully
+2023-11-08 20:41:41,083 - KommatiParaDataPrepApp - INFO - Integrating the two input datasets
+2023-11-08 20:41:41,130 - KommatiParaDataPrepApp - INFO - Datasets integrated successfully
+2023-11-08 20:41:41,130 - KommatiParaDataPrepApp - INFO - Transforming the dataset
+2023-11-08 20:41:41,131 - KommatiParaDataPrepApp - INFO - Renaming columns in the dataset
+2023-11-08 20:41:41,153 - KommatiParaDataPrepApp - INFO - Columns renamed successfully
+2023-11-08 20:41:41,154 - KommatiParaDataPrepApp - INFO - Dataset transformed successfully
+2023-11-08 20:41:41,945 - KommatiParaDataPrepApp - INFO - Application run successfully
+2023-11-08 20:51:22,013 - KommatiParaDataPrepApp - INFO - Running the application
+2023-11-08 20:51:29,196 - KommatiParaDataPrepApp - INFO - Reading the input datasets
+2023-11-08 20:51:36,958 - KommatiParaDataPrepApp - INFO - Datasets read successfully
+2023-11-08 20:51:36,958 - KommatiParaDataPrepApp - INFO - Staging the input datasets
+2023-11-08 20:51:36,959 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 20:51:36,959 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column country and criteria ['United Kingdom', 'Netherlands']
+2023-11-08 20:51:37,030 - KommatiParaDataPrepApp - INFO - Dataset filtered successfully
+2023-11-08 20:51:37,045 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 20:51:37,045 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 20:51:37,045 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column None and criteria None
+2023-11-08 20:51:37,059 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 20:51:37,059 - KommatiParaDataPrepApp - INFO - Datasets staged successfully
+2023-11-08 20:51:37,059 - KommatiParaDataPrepApp - INFO - Integrating the two input datasets
+2023-11-08 20:51:37,125 - KommatiParaDataPrepApp - INFO - Datasets integrated successfully
+2023-11-08 20:51:37,126 - KommatiParaDataPrepApp - INFO - Transforming the dataset
+2023-11-08 20:51:37,126 - KommatiParaDataPrepApp - INFO - Renaming columns in the dataset
+2023-11-08 20:51:37,159 - KommatiParaDataPrepApp - INFO - Columns renamed successfully
+2023-11-08 20:51:37,160 - KommatiParaDataPrepApp - INFO - Dataset transformed successfully
+2023-11-08 20:51:37,160 - KommatiParaDataPrepApp - INFO - Writing the output dataset
+2023-11-08 20:53:27,620 - KommatiParaDataPrepApp - INFO - Running the application
+2023-11-08 20:53:34,235 - KommatiParaDataPrepApp - INFO - Reading the input datasets
+2023-11-08 20:53:44,097 - KommatiParaDataPrepApp - INFO - Datasets read successfully
+2023-11-08 20:53:44,097 - KommatiParaDataPrepApp - INFO - Staging the input datasets
+2023-11-08 20:53:44,098 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 20:53:44,098 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column country and criteria ['United Kingdom', 'Netherlands']
+2023-11-08 20:53:44,165 - KommatiParaDataPrepApp - INFO - Dataset filtered successfully
+2023-11-08 20:53:44,176 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 20:53:44,176 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 20:53:44,177 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column None and criteria None
+2023-11-08 20:53:44,190 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 20:53:44,191 - KommatiParaDataPrepApp - INFO - Datasets staged successfully
+2023-11-08 20:53:44,191 - KommatiParaDataPrepApp - INFO - Integrating the two input datasets
+2023-11-08 20:53:44,282 - KommatiParaDataPrepApp - INFO - Datasets integrated successfully
+2023-11-08 20:53:44,283 - KommatiParaDataPrepApp - INFO - Transforming the dataset
+2023-11-08 20:53:44,283 - KommatiParaDataPrepApp - INFO - Renaming columns in the dataset
+2023-11-08 20:53:44,333 - KommatiParaDataPrepApp - INFO - Columns renamed successfully
+2023-11-08 20:53:44,333 - KommatiParaDataPrepApp - INFO - Dataset transformed successfully
+2023-11-08 20:53:44,334 - KommatiParaDataPrepApp - INFO - Writing the output dataset
+2023-11-08 20:57:58,733 - KommatiParaDataPrepApp - INFO - Running the application
+2023-11-08 20:58:05,727 - KommatiParaDataPrepApp - INFO - Reading the input datasets
+2023-11-08 20:58:12,879 - KommatiParaDataPrepApp - INFO - Datasets read successfully
+2023-11-08 20:58:12,880 - KommatiParaDataPrepApp - INFO - Staging the input datasets
+2023-11-08 20:58:12,880 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 20:58:12,880 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column country and criteria ['United Kingdom', 'Netherlands']
+2023-11-08 20:58:12,950 - KommatiParaDataPrepApp - INFO - Dataset filtered successfully
+2023-11-08 20:58:12,963 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 20:58:12,964 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 20:58:12,964 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column None and criteria None
+2023-11-08 20:58:12,979 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 20:58:12,979 - KommatiParaDataPrepApp - INFO - Datasets staged successfully
+2023-11-08 20:58:12,979 - KommatiParaDataPrepApp - INFO - Integrating the two input datasets
+2023-11-08 20:58:13,043 - KommatiParaDataPrepApp - INFO - Datasets integrated successfully
+2023-11-08 20:58:13,043 - KommatiParaDataPrepApp - INFO - Transforming the dataset
+2023-11-08 20:58:13,043 - KommatiParaDataPrepApp - INFO - Renaming columns in the dataset
+2023-11-08 20:58:13,073 - KommatiParaDataPrepApp - INFO - Columns renamed successfully
+2023-11-08 20:58:13,073 - KommatiParaDataPrepApp - INFO - Dataset transformed successfully
+2023-11-08 20:58:13,074 - KommatiParaDataPrepApp - INFO - Writing the output dataset
+2023-11-08 21:01:08,482 - KommatiParaDataPrepApp - INFO - Running the application
+2023-11-08 21:01:17,518 - KommatiParaDataPrepApp - INFO - Reading the input datasets
+2023-11-08 21:01:28,621 - KommatiParaDataPrepApp - INFO - Datasets read successfully
+2023-11-08 21:01:28,621 - KommatiParaDataPrepApp - INFO - Staging the input datasets
+2023-11-08 21:01:28,621 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 21:01:28,621 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column country and criteria ['United Kingdom', 'Netherlands']
+2023-11-08 21:01:28,694 - KommatiParaDataPrepApp - INFO - Dataset filtered successfully
+2023-11-08 21:01:28,708 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 21:01:28,708 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 21:01:28,708 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column None and criteria None
+2023-11-08 21:01:28,720 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 21:01:28,721 - KommatiParaDataPrepApp - INFO - Datasets staged successfully
+2023-11-08 21:01:28,721 - KommatiParaDataPrepApp - INFO - Integrating the two input datasets
+2023-11-08 21:01:28,788 - KommatiParaDataPrepApp - INFO - Datasets integrated successfully
+2023-11-08 21:01:28,788 - KommatiParaDataPrepApp - INFO - Transforming the dataset
+2023-11-08 21:01:28,789 - KommatiParaDataPrepApp - INFO - Renaming columns in the dataset
+2023-11-08 21:01:28,830 - KommatiParaDataPrepApp - INFO - Columns renamed successfully
+2023-11-08 21:01:28,830 - KommatiParaDataPrepApp - INFO - Dataset transformed successfully
+2023-11-08 21:01:28,830 - KommatiParaDataPrepApp - INFO - Writing the output dataset
+2023-11-08 21:04:55,900 - KommatiParaDataPrepApp - INFO - Running the application
+2023-11-08 21:05:02,578 - KommatiParaDataPrepApp - INFO - Reading the input datasets
+2023-11-08 21:05:11,968 - KommatiParaDataPrepApp - INFO - Datasets read successfully
+2023-11-08 21:05:11,969 - KommatiParaDataPrepApp - INFO - Staging the input datasets
+2023-11-08 21:05:11,969 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 21:05:11,969 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column country and criteria ['United Kingdom', 'Netherlands']
+2023-11-08 21:05:12,061 - KommatiParaDataPrepApp - INFO - Dataset filtered successfully
+2023-11-08 21:05:12,073 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 21:05:12,073 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 21:05:12,074 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column None and criteria None
+2023-11-08 21:05:12,087 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 21:05:12,088 - KommatiParaDataPrepApp - INFO - Datasets staged successfully
+2023-11-08 21:05:12,088 - KommatiParaDataPrepApp - INFO - Integrating the two input datasets
+2023-11-08 21:05:12,145 - KommatiParaDataPrepApp - INFO - Datasets integrated successfully
+2023-11-08 21:05:12,145 - KommatiParaDataPrepApp - INFO - Transforming the dataset
+2023-11-08 21:05:12,145 - KommatiParaDataPrepApp - INFO - Renaming columns in the dataset
+2023-11-08 21:05:12,179 - KommatiParaDataPrepApp - INFO - Columns renamed successfully
+2023-11-08 21:05:12,179 - KommatiParaDataPrepApp - INFO - Dataset transformed successfully
+2023-11-08 21:05:12,179 - KommatiParaDataPrepApp - INFO - Writing the output dataset
+2023-11-08 21:21:14,721 - KommatiParaDataPrepApp - INFO - Running the application
+2023-11-08 21:21:21,551 - KommatiParaDataPrepApp - INFO - Reading the input datasets
+2023-11-08 21:21:28,248 - KommatiParaDataPrepApp - INFO - Datasets read successfully
+2023-11-08 21:21:28,248 - KommatiParaDataPrepApp - INFO - Staging the input datasets
+2023-11-08 21:21:28,249 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 21:21:28,249 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column country and criteria ['United Kingdom', 'Netherlands']
+2023-11-08 21:21:28,308 - KommatiParaDataPrepApp - INFO - Dataset filtered successfully
+2023-11-08 21:21:28,319 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 21:21:28,319 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 21:21:28,319 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column None and criteria None
+2023-11-08 21:21:28,331 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 21:21:28,332 - KommatiParaDataPrepApp - INFO - Datasets staged successfully
+2023-11-08 21:21:28,332 - KommatiParaDataPrepApp - INFO - Integrating the two input datasets
+2023-11-08 21:21:28,393 - KommatiParaDataPrepApp - INFO - Datasets integrated successfully
+2023-11-08 21:21:28,394 - KommatiParaDataPrepApp - INFO - Transforming the dataset
+2023-11-08 21:21:28,394 - KommatiParaDataPrepApp - INFO - Renaming columns in the dataset
+2023-11-08 21:21:28,426 - KommatiParaDataPrepApp - INFO - Columns renamed successfully
+2023-11-08 21:21:28,426 - KommatiParaDataPrepApp - INFO - Dataset transformed successfully
+2023-11-08 21:21:28,426 - KommatiParaDataPrepApp - INFO - Writing the output dataset
+2023-11-08 21:22:05,164 - KommatiParaDataPrepApp - INFO - Running the application
+2023-11-08 21:22:12,187 - KommatiParaDataPrepApp - INFO - Reading the input datasets
+2023-11-08 21:22:19,518 - KommatiParaDataPrepApp - INFO - Datasets read successfully
+2023-11-08 21:22:19,518 - KommatiParaDataPrepApp - INFO - Staging the input datasets
+2023-11-08 21:22:19,518 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 21:22:19,518 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column country and criteria ['United Kingdom', 'Netherlands']
+2023-11-08 21:22:19,592 - KommatiParaDataPrepApp - INFO - Dataset filtered successfully
+2023-11-08 21:22:19,606 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 21:22:19,606 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 21:22:19,607 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column None and criteria None
+2023-11-08 21:22:19,619 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 21:22:19,620 - KommatiParaDataPrepApp - INFO - Datasets staged successfully
+2023-11-08 21:22:19,620 - KommatiParaDataPrepApp - INFO - Integrating the two input datasets
+2023-11-08 21:22:19,684 - KommatiParaDataPrepApp - INFO - Datasets integrated successfully
+2023-11-08 21:22:19,684 - KommatiParaDataPrepApp - INFO - Transforming the dataset
+2023-11-08 21:22:19,684 - KommatiParaDataPrepApp - INFO - Renaming columns in the dataset
+2023-11-08 21:22:19,715 - KommatiParaDataPrepApp - INFO - Columns renamed successfully
+2023-11-08 21:22:19,715 - KommatiParaDataPrepApp - INFO - Dataset transformed successfully
+2023-11-08 21:22:19,716 - KommatiParaDataPrepApp - INFO - Writing the output dataset
+2023-11-08 22:01:57,063 - KommatiParaDataPrepApp - INFO - Running the application
+2023-11-08 22:02:05,393 - KommatiParaDataPrepApp - INFO - Reading the input datasets
+2023-11-08 22:02:13,126 - KommatiParaDataPrepApp - INFO - Datasets read successfully
+2023-11-08 22:02:13,127 - KommatiParaDataPrepApp - INFO - Staging the input datasets
+2023-11-08 22:02:13,127 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 22:02:13,127 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column country and criteria ['United Kingdom', 'Netherlands']
+2023-11-08 22:02:13,195 - KommatiParaDataPrepApp - INFO - Dataset filtered successfully
+2023-11-08 22:02:13,208 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 22:02:13,208 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 22:02:13,208 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column None and criteria None
+2023-11-08 22:02:13,219 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 22:02:13,219 - KommatiParaDataPrepApp - INFO - Datasets staged successfully
+2023-11-08 22:02:13,219 - KommatiParaDataPrepApp - INFO - Integrating the two input datasets
+2023-11-08 22:02:13,280 - KommatiParaDataPrepApp - INFO - Datasets integrated successfully
+2023-11-08 22:02:13,280 - KommatiParaDataPrepApp - INFO - Transforming the dataset
+2023-11-08 22:02:13,281 - KommatiParaDataPrepApp - INFO - Renaming columns in the dataset
+2023-11-08 22:02:13,309 - KommatiParaDataPrepApp - INFO - Columns renamed successfully
+2023-11-08 22:02:13,309 - KommatiParaDataPrepApp - INFO - Dataset transformed successfully
+2023-11-08 22:02:13,309 - KommatiParaDataPrepApp - INFO - Writing the output dataset
+2023-11-08 22:03:47,968 - KommatiParaDataPrepApp - INFO - Running the application
+2023-11-08 22:04:00,192 - KommatiParaDataPrepApp - INFO - Reading the input datasets
+2023-11-08 22:04:10,642 - KommatiParaDataPrepApp - INFO - Datasets read successfully
+2023-11-08 22:04:10,642 - KommatiParaDataPrepApp - INFO - Staging the input datasets
+2023-11-08 22:04:10,643 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 22:04:10,643 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column country and criteria ['United Kingdom', 'Netherlands']
+2023-11-08 22:04:10,730 - KommatiParaDataPrepApp - INFO - Dataset filtered successfully
+2023-11-08 22:04:10,747 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 22:04:10,747 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 22:04:10,747 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column None and criteria None
+2023-11-08 22:04:10,761 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 22:04:10,762 - KommatiParaDataPrepApp - INFO - Datasets staged successfully
+2023-11-08 22:04:10,762 - KommatiParaDataPrepApp - INFO - Integrating the two input datasets
+2023-11-08 22:04:10,838 - KommatiParaDataPrepApp - INFO - Datasets integrated successfully
+2023-11-08 22:04:10,838 - KommatiParaDataPrepApp - INFO - Transforming the dataset
+2023-11-08 22:04:10,838 - KommatiParaDataPrepApp - INFO - Renaming columns in the dataset
+2023-11-08 22:04:10,879 - KommatiParaDataPrepApp - INFO - Columns renamed successfully
+2023-11-08 22:04:10,879 - KommatiParaDataPrepApp - INFO - Dataset transformed successfully
+2023-11-08 22:04:10,880 - KommatiParaDataPrepApp - INFO - Writing the output dataset
+2023-11-08 22:05:45,860 - KommatiParaDataPrepApp - INFO - Running the application
+2023-11-08 22:05:50,842 - KommatiParaDataPrepApp - INFO - Reading the input datasets
+2023-11-08 22:05:56,806 - KommatiParaDataPrepApp - INFO - Datasets read successfully
+2023-11-08 22:05:56,806 - KommatiParaDataPrepApp - INFO - Staging the input datasets
+2023-11-08 22:05:56,806 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 22:05:56,806 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column country and criteria ['United Kingdom', 'Netherlands']
+2023-11-08 22:05:56,862 - KommatiParaDataPrepApp - INFO - Dataset filtered successfully
+2023-11-08 22:05:56,871 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 22:05:56,872 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 22:05:56,872 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column None and criteria None
+2023-11-08 22:05:56,882 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 22:05:56,882 - KommatiParaDataPrepApp - INFO - Datasets staged successfully
+2023-11-08 22:05:56,882 - KommatiParaDataPrepApp - INFO - Integrating the two input datasets
+2023-11-08 22:05:56,931 - KommatiParaDataPrepApp - INFO - Datasets integrated successfully
+2023-11-08 22:05:56,932 - KommatiParaDataPrepApp - INFO - Transforming the dataset
+2023-11-08 22:05:56,932 - KommatiParaDataPrepApp - INFO - Renaming columns in the dataset
+2023-11-08 22:05:56,961 - KommatiParaDataPrepApp - INFO - Columns renamed successfully
+2023-11-08 22:05:56,961 - KommatiParaDataPrepApp - INFO - Dataset transformed successfully
+2023-11-08 22:05:56,962 - KommatiParaDataPrepApp - INFO - Writing the output dataset
+2023-11-08 22:06:24,035 - KommatiParaDataPrepApp - INFO - Running the application
+2023-11-08 22:06:29,106 - KommatiParaDataPrepApp - INFO - Reading the input datasets
+2023-11-08 22:06:34,688 - KommatiParaDataPrepApp - INFO - Datasets read successfully
+2023-11-08 22:06:34,688 - KommatiParaDataPrepApp - INFO - Staging the input datasets
+2023-11-08 22:06:34,688 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 22:06:34,688 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column country and criteria ['United Kingdom', 'Netherlands']
+2023-11-08 22:06:34,728 - KommatiParaDataPrepApp - INFO - Dataset filtered successfully
+2023-11-08 22:06:34,735 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 22:06:34,736 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 22:06:34,736 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column None and criteria None
+2023-11-08 22:06:34,743 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 22:06:34,743 - KommatiParaDataPrepApp - INFO - Datasets staged successfully
+2023-11-08 22:06:34,743 - KommatiParaDataPrepApp - INFO - Integrating the two input datasets
+2023-11-08 22:06:34,777 - KommatiParaDataPrepApp - INFO - Datasets integrated successfully
+2023-11-08 22:06:34,777 - KommatiParaDataPrepApp - INFO - Transforming the dataset
+2023-11-08 22:06:34,777 - KommatiParaDataPrepApp - INFO - Renaming columns in the dataset
+2023-11-08 22:06:34,797 - KommatiParaDataPrepApp - INFO - Columns renamed successfully
+2023-11-08 22:06:34,797 - KommatiParaDataPrepApp - INFO - Dataset transformed successfully
+2023-11-08 22:06:34,797 - KommatiParaDataPrepApp - INFO - Writing the output dataset
+2023-11-08 22:14:21,866 - KommatiParaDataPrepApp - INFO - Running the application
+2023-11-08 22:14:29,384 - KommatiParaDataPrepApp - INFO - Reading the input datasets
+2023-11-08 22:14:34,466 - KommatiParaDataPrepApp - INFO - Datasets read successfully
+2023-11-08 22:14:34,467 - KommatiParaDataPrepApp - INFO - Staging the input datasets
+2023-11-08 22:14:34,467 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 22:14:34,467 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column country and criteria ['United Kingdom', 'Netherlands']
+2023-11-08 22:14:34,523 - KommatiParaDataPrepApp - INFO - Dataset filtered successfully
+2023-11-08 22:14:34,533 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 22:14:34,533 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 22:14:34,534 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column None and criteria None
+2023-11-08 22:14:34,544 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 22:14:34,544 - KommatiParaDataPrepApp - INFO - Datasets staged successfully
+2023-11-08 22:14:34,545 - KommatiParaDataPrepApp - INFO - Integrating the two input datasets
+2023-11-08 22:14:34,591 - KommatiParaDataPrepApp - INFO - Datasets integrated successfully
+2023-11-08 22:14:34,591 - KommatiParaDataPrepApp - INFO - Transforming the dataset
+2023-11-08 22:14:34,591 - KommatiParaDataPrepApp - INFO - Renaming columns in the dataset
+2023-11-08 22:14:34,614 - KommatiParaDataPrepApp - INFO - Columns renamed successfully
+2023-11-08 22:14:34,614 - KommatiParaDataPrepApp - INFO - Dataset transformed successfully
+2023-11-08 22:14:34,614 - KommatiParaDataPrepApp - INFO - Writing the output dataset
+2023-11-08 22:19:17,338 - KommatiParaDataPrepApp - INFO - Running the application
+2023-11-08 22:19:29,558 - KommatiParaDataPrepApp - INFO - Reading the input datasets
+2023-11-08 22:19:41,921 - KommatiParaDataPrepApp - INFO - Datasets read successfully
+2023-11-08 22:19:41,922 - KommatiParaDataPrepApp - INFO - Staging the input datasets
+2023-11-08 22:19:41,922 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 22:19:41,922 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column country and criteria ['United Kingdom', 'Netherlands']
+2023-11-08 22:19:42,003 - KommatiParaDataPrepApp - INFO - Dataset filtered successfully
+2023-11-08 22:19:42,020 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 22:19:42,020 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 22:19:42,020 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column None and criteria None
+2023-11-08 22:19:42,032 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 22:19:42,033 - KommatiParaDataPrepApp - INFO - Datasets staged successfully
+2023-11-08 22:19:42,033 - KommatiParaDataPrepApp - INFO - Integrating the two input datasets
+2023-11-08 22:19:42,117 - KommatiParaDataPrepApp - INFO - Datasets integrated successfully
+2023-11-08 22:19:42,117 - KommatiParaDataPrepApp - INFO - Transforming the dataset
+2023-11-08 22:19:42,117 - KommatiParaDataPrepApp - INFO - Renaming columns in the dataset
+2023-11-08 22:19:42,152 - KommatiParaDataPrepApp - INFO - Columns renamed successfully
+2023-11-08 22:19:42,152 - KommatiParaDataPrepApp - INFO - Dataset transformed successfully
+2023-11-08 22:19:42,152 - KommatiParaDataPrepApp - INFO - Writing the output dataset
+2023-11-08 22:21:52,583 - KommatiParaDataPrepApp - INFO - Running the application
+2023-11-08 22:21:59,054 - KommatiParaDataPrepApp - INFO - Reading the input datasets
+2023-11-08 22:22:06,640 - KommatiParaDataPrepApp - INFO - Datasets read successfully
+2023-11-08 22:22:06,640 - KommatiParaDataPrepApp - INFO - Staging the input datasets
+2023-11-08 22:22:06,641 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 22:22:06,641 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column country and criteria ['United Kingdom', 'Netherlands']
+2023-11-08 22:22:06,702 - KommatiParaDataPrepApp - INFO - Dataset filtered successfully
+2023-11-08 22:22:06,715 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 22:22:06,715 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 22:22:06,715 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column None and criteria None
+2023-11-08 22:22:06,727 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 22:22:06,727 - KommatiParaDataPrepApp - INFO - Datasets staged successfully
+2023-11-08 22:22:06,727 - KommatiParaDataPrepApp - INFO - Integrating the two input datasets
+2023-11-08 22:22:06,788 - KommatiParaDataPrepApp - INFO - Datasets integrated successfully
+2023-11-08 22:22:06,788 - KommatiParaDataPrepApp - INFO - Transforming the dataset
+2023-11-08 22:22:06,788 - KommatiParaDataPrepApp - INFO - Renaming columns in the dataset
+2023-11-08 22:22:06,819 - KommatiParaDataPrepApp - INFO - Columns renamed successfully
+2023-11-08 22:22:06,819 - KommatiParaDataPrepApp - INFO - Dataset transformed successfully
+2023-11-08 22:22:06,819 - KommatiParaDataPrepApp - INFO - Writing the output dataset
+2023-11-08 22:23:12,330 - KommatiParaDataPrepApp - INFO - Running the application
+2023-11-08 22:23:19,874 - KommatiParaDataPrepApp - INFO - Reading the input datasets
+2023-11-08 22:29:40,631 - KommatiParaDataPrepApp - INFO - Running the application
+2023-11-08 22:29:45,946 - KommatiParaDataPrepApp - INFO - Reading the input datasets
+2023-11-08 22:29:50,561 - KommatiParaDataPrepApp - INFO - Datasets read successfully
+2023-11-08 22:29:50,562 - KommatiParaDataPrepApp - INFO - Staging the input datasets
+2023-11-08 22:29:50,562 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 22:29:50,562 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column country and criteria ['United Kingdom', 'Netherlands']
+2023-11-08 22:29:50,602 - KommatiParaDataPrepApp - INFO - Dataset filtered successfully
+2023-11-08 22:29:50,609 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 22:29:50,609 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 22:29:50,609 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column None and criteria None
+2023-11-08 22:29:50,619 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 22:29:50,620 - KommatiParaDataPrepApp - INFO - Datasets staged successfully
+2023-11-08 22:29:50,620 - KommatiParaDataPrepApp - INFO - Integrating the two input datasets
+2023-11-08 22:29:50,659 - KommatiParaDataPrepApp - INFO - Datasets integrated successfully
+2023-11-08 22:29:50,660 - KommatiParaDataPrepApp - INFO - Transforming the dataset
+2023-11-08 22:29:50,660 - KommatiParaDataPrepApp - INFO - Renaming columns in the dataset
+2023-11-08 22:29:50,682 - KommatiParaDataPrepApp - INFO - Columns renamed successfully
+2023-11-08 22:29:50,683 - KommatiParaDataPrepApp - INFO - Dataset transformed successfully
+2023-11-08 22:29:50,683 - KommatiParaDataPrepApp - INFO - Writing the output dataset
+2023-11-08 22:32:03,603 - KommatiParaDataPrepApp - INFO - Running the application
+2023-11-08 22:32:08,720 - KommatiParaDataPrepApp - INFO - Reading the input datasets
+2023-11-08 22:32:13,329 - KommatiParaDataPrepApp - INFO - Datasets read successfully
+2023-11-08 22:32:13,330 - KommatiParaDataPrepApp - INFO - Staging the input datasets
+2023-11-08 22:32:13,330 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 22:32:13,330 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column country and criteria ['United Kingdom', 'Netherlands']
+2023-11-08 22:32:13,378 - KommatiParaDataPrepApp - INFO - Dataset filtered successfully
+2023-11-08 22:32:13,386 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 22:32:13,387 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 22:32:13,387 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column None and criteria None
+2023-11-08 22:32:13,394 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 22:32:13,394 - KommatiParaDataPrepApp - INFO - Datasets staged successfully
+2023-11-08 22:32:13,394 - KommatiParaDataPrepApp - INFO - Integrating the two input datasets
+2023-11-08 22:32:13,432 - KommatiParaDataPrepApp - INFO - Datasets integrated successfully
+2023-11-08 22:32:13,432 - KommatiParaDataPrepApp - INFO - Transforming the dataset
+2023-11-08 22:32:13,432 - KommatiParaDataPrepApp - INFO - Renaming columns in the dataset
+2023-11-08 22:32:13,454 - KommatiParaDataPrepApp - INFO - Columns renamed successfully
+2023-11-08 22:32:13,454 - KommatiParaDataPrepApp - INFO - Dataset transformed successfully
+2023-11-08 22:32:13,454 - KommatiParaDataPrepApp - INFO - Writing the output dataset
+2023-11-08 22:43:48,859 - KommatiParaDataPrepApp - INFO - Running the application
+2023-11-08 22:43:59,628 - KommatiParaDataPrepApp - INFO - Reading the input datasets
+2023-11-08 22:44:05,652 - KommatiParaDataPrepApp - INFO - Datasets read successfully
+2023-11-08 22:44:05,652 - KommatiParaDataPrepApp - INFO - Staging the input datasets
+2023-11-08 22:44:05,652 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 22:44:05,652 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column country and criteria ['United Kingdom', 'Netherlands']
+2023-11-08 22:44:05,697 - KommatiParaDataPrepApp - INFO - Dataset filtered successfully
+2023-11-08 22:44:05,706 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 22:44:05,706 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 22:44:05,706 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column None and criteria None
+2023-11-08 22:44:05,714 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 22:44:05,714 - KommatiParaDataPrepApp - INFO - Datasets staged successfully
+2023-11-08 22:44:05,714 - KommatiParaDataPrepApp - INFO - Integrating the two input datasets
+2023-11-08 22:44:05,756 - KommatiParaDataPrepApp - INFO - Datasets integrated successfully
+2023-11-08 22:44:05,757 - KommatiParaDataPrepApp - INFO - Transforming the dataset
+2023-11-08 22:44:05,757 - KommatiParaDataPrepApp - INFO - Renaming columns in the dataset
+2023-11-08 22:44:05,780 - KommatiParaDataPrepApp - INFO - Columns renamed successfully
+2023-11-08 22:44:05,780 - KommatiParaDataPrepApp - INFO - Dataset transformed successfully
+2023-11-08 22:44:05,781 - KommatiParaDataPrepApp - INFO - Writing the output dataset
+2023-11-08 22:45:52,762 - KommatiParaDataPrepApp - INFO - Running the application
+2023-11-08 22:45:59,923 - KommatiParaDataPrepApp - INFO - Reading the input datasets
+2023-11-08 22:46:04,844 - KommatiParaDataPrepApp - INFO - Datasets read successfully
+2023-11-08 22:46:04,844 - KommatiParaDataPrepApp - INFO - Staging the input datasets
+2023-11-08 22:46:04,844 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 22:46:04,844 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column country and criteria ['United Kingdom', 'Netherlands']
+2023-11-08 22:46:04,889 - KommatiParaDataPrepApp - INFO - Dataset filtered successfully
+2023-11-08 22:46:04,899 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 22:46:04,900 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 22:46:04,900 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column None and criteria None
+2023-11-08 22:46:04,908 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 22:46:04,908 - KommatiParaDataPrepApp - INFO - Datasets staged successfully
+2023-11-08 22:46:04,909 - KommatiParaDataPrepApp - INFO - Integrating the two input datasets
+2023-11-08 22:46:04,949 - KommatiParaDataPrepApp - INFO - Datasets integrated successfully
+2023-11-08 22:46:04,950 - KommatiParaDataPrepApp - INFO - Transforming the dataset
+2023-11-08 22:46:04,950 - KommatiParaDataPrepApp - INFO - Renaming columns in the dataset
+2023-11-08 22:46:04,972 - KommatiParaDataPrepApp - INFO - Columns renamed successfully
+2023-11-08 22:46:04,972 - KommatiParaDataPrepApp - INFO - Dataset transformed successfully
+2023-11-08 22:46:04,972 - KommatiParaDataPrepApp - INFO - Writing the output dataset
+2023-11-08 22:56:14,712 - KommatiParaDataPrepApp - INFO - Running the application
+2023-11-08 22:56:26,305 - KommatiParaDataPrepApp - INFO - Reading the input datasets
+2023-11-08 22:56:32,942 - KommatiParaDataPrepApp - INFO - Datasets read successfully
+2023-11-08 22:56:32,942 - KommatiParaDataPrepApp - INFO - Staging the input datasets
+2023-11-08 22:56:32,943 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 22:56:32,943 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column country and criteria ['United Kingdom', 'Netherlands']
+2023-11-08 22:56:33,008 - KommatiParaDataPrepApp - INFO - Dataset filtered successfully
+2023-11-08 22:56:33,018 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 22:56:33,019 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 22:56:33,019 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column None and criteria None
+2023-11-08 22:56:33,030 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 22:56:33,031 - KommatiParaDataPrepApp - INFO - Datasets staged successfully
+2023-11-08 22:56:33,031 - KommatiParaDataPrepApp - INFO - Integrating the two input datasets
+2023-11-08 22:56:33,086 - KommatiParaDataPrepApp - INFO - Datasets integrated successfully
+2023-11-08 22:56:33,087 - KommatiParaDataPrepApp - INFO - Transforming the dataset
+2023-11-08 22:56:33,087 - KommatiParaDataPrepApp - INFO - Renaming columns in the dataset
+2023-11-08 22:56:33,114 - KommatiParaDataPrepApp - INFO - Columns renamed successfully
+2023-11-08 22:56:33,115 - KommatiParaDataPrepApp - INFO - Dataset transformed successfully
+2023-11-08 22:56:33,116 - KommatiParaDataPrepApp - INFO - Writing the output dataset
+2023-11-08 23:03:30,436 - KommatiParaDataPrepApp - INFO - Running the application
+2023-11-08 23:03:48,620 - KommatiParaDataPrepApp - INFO - Reading the input datasets
+2023-11-08 23:03:59,051 - KommatiParaDataPrepApp - INFO - Datasets read successfully
+2023-11-08 23:03:59,051 - KommatiParaDataPrepApp - INFO - Staging the input datasets
+2023-11-08 23:03:59,052 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 23:03:59,052 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column country and criteria ['United Kingdom', 'Netherlands']
+2023-11-08 23:03:59,139 - KommatiParaDataPrepApp - INFO - Dataset filtered successfully
+2023-11-08 23:03:59,155 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 23:03:59,157 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 23:03:59,157 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column None and criteria None
+2023-11-08 23:03:59,172 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 23:03:59,172 - KommatiParaDataPrepApp - INFO - Datasets staged successfully
+2023-11-08 23:03:59,173 - KommatiParaDataPrepApp - INFO - Integrating the two input datasets
+2023-11-08 23:03:59,244 - KommatiParaDataPrepApp - INFO - Datasets integrated successfully
+2023-11-08 23:03:59,244 - KommatiParaDataPrepApp - INFO - Transforming the dataset
+2023-11-08 23:03:59,244 - KommatiParaDataPrepApp - INFO - Renaming columns in the dataset
+2023-11-08 23:03:59,280 - KommatiParaDataPrepApp - INFO - Columns renamed successfully
+2023-11-08 23:03:59,281 - KommatiParaDataPrepApp - INFO - Dataset transformed successfully
+2023-11-08 23:03:59,281 - KommatiParaDataPrepApp - INFO - Writing the output dataset
+2023-11-08 23:04:54,162 - KommatiParaDataPrepApp - INFO - Running the application
+2023-11-08 23:05:03,066 - KommatiParaDataPrepApp - INFO - Reading the input datasets
+2023-11-08 23:05:11,695 - KommatiParaDataPrepApp - INFO - Datasets read successfully
+2023-11-08 23:05:11,695 - KommatiParaDataPrepApp - INFO - Staging the input datasets
+2023-11-08 23:05:11,695 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 23:05:11,696 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column country and criteria ['United Kingdom', 'Netherlands']
+2023-11-08 23:05:11,781 - KommatiParaDataPrepApp - INFO - Dataset filtered successfully
+2023-11-08 23:05:11,805 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 23:05:11,805 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 23:05:11,805 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column None and criteria None
+2023-11-08 23:05:11,820 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 23:05:11,821 - KommatiParaDataPrepApp - INFO - Datasets staged successfully
+2023-11-08 23:05:11,821 - KommatiParaDataPrepApp - INFO - Integrating the two input datasets
+2023-11-08 23:05:11,890 - KommatiParaDataPrepApp - INFO - Datasets integrated successfully
+2023-11-08 23:05:11,890 - KommatiParaDataPrepApp - INFO - Transforming the dataset
+2023-11-08 23:05:11,890 - KommatiParaDataPrepApp - INFO - Renaming columns in the dataset
+2023-11-08 23:05:11,933 - KommatiParaDataPrepApp - INFO - Columns renamed successfully
+2023-11-08 23:05:11,933 - KommatiParaDataPrepApp - INFO - Dataset transformed successfully
+2023-11-08 23:05:11,933 - KommatiParaDataPrepApp - INFO - Writing the output dataset
+2023-11-08 23:06:53,449 - KommatiParaDataPrepApp - INFO - Running the application
+2023-11-08 23:06:59,287 - KommatiParaDataPrepApp - INFO - Reading the input datasets
+2023-11-08 23:07:05,602 - KommatiParaDataPrepApp - INFO - Datasets read successfully
+2023-11-08 23:07:05,602 - KommatiParaDataPrepApp - INFO - Staging the input datasets
+2023-11-08 23:07:05,602 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 23:07:05,603 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column country and criteria ['United Kingdom', 'Netherlands']
+2023-11-08 23:07:05,665 - KommatiParaDataPrepApp - INFO - Dataset filtered successfully
+2023-11-08 23:07:05,679 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 23:07:05,679 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 23:07:05,679 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column None and criteria None
+2023-11-08 23:07:05,692 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 23:07:05,692 - KommatiParaDataPrepApp - INFO - Datasets staged successfully
+2023-11-08 23:07:05,692 - KommatiParaDataPrepApp - INFO - Integrating the two input datasets
+2023-11-08 23:07:05,757 - KommatiParaDataPrepApp - INFO - Datasets integrated successfully
+2023-11-08 23:07:05,757 - KommatiParaDataPrepApp - INFO - Transforming the dataset
+2023-11-08 23:07:05,758 - KommatiParaDataPrepApp - INFO - Renaming columns in the dataset
+2023-11-08 23:07:05,789 - KommatiParaDataPrepApp - INFO - Columns renamed successfully
+2023-11-08 23:07:05,789 - KommatiParaDataPrepApp - INFO - Dataset transformed successfully
+2023-11-08 23:07:05,790 - KommatiParaDataPrepApp - INFO - Writing the output dataset
+2023-11-08 23:08:02,570 - KommatiParaDataPrepApp - INFO - Running the application
+2023-11-08 23:08:09,737 - KommatiParaDataPrepApp - INFO - Reading the input datasets
+2023-11-08 23:08:17,072 - KommatiParaDataPrepApp - INFO - Datasets read successfully
+2023-11-08 23:08:17,072 - KommatiParaDataPrepApp - INFO - Staging the input datasets
+2023-11-08 23:08:17,073 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 23:08:17,073 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column country and criteria ['United Kingdom', 'Netherlands']
+2023-11-08 23:08:17,126 - KommatiParaDataPrepApp - INFO - Dataset filtered successfully
+2023-11-08 23:08:17,137 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 23:08:17,137 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 23:08:17,137 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column None and criteria None
+2023-11-08 23:08:17,147 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 23:08:17,148 - KommatiParaDataPrepApp - INFO - Datasets staged successfully
+2023-11-08 23:08:17,148 - KommatiParaDataPrepApp - INFO - Integrating the two input datasets
+2023-11-08 23:08:17,201 - KommatiParaDataPrepApp - INFO - Datasets integrated successfully
+2023-11-08 23:08:17,201 - KommatiParaDataPrepApp - INFO - Transforming the dataset
+2023-11-08 23:08:17,202 - KommatiParaDataPrepApp - INFO - Renaming columns in the dataset
+2023-11-08 23:08:17,225 - KommatiParaDataPrepApp - INFO - Columns renamed successfully
+2023-11-08 23:08:17,226 - KommatiParaDataPrepApp - INFO - Dataset transformed successfully
+2023-11-08 23:08:17,226 - KommatiParaDataPrepApp - INFO - Writing the output dataset
+2023-11-08 23:08:18,421 - KommatiParaDataPrepApp - INFO - Output dataset written successfully
+2023-11-08 23:08:18,422 - KommatiParaDataPrepApp - INFO - Application run successfully
+2023-11-08 23:09:46,654 - KommatiParaDataPrepApp - INFO - Running the application
+2023-11-08 23:09:51,737 - KommatiParaDataPrepApp - INFO - Reading the input datasets
+2023-11-08 23:09:56,590 - KommatiParaDataPrepApp - INFO - Datasets read successfully
+2023-11-08 23:09:56,591 - KommatiParaDataPrepApp - INFO - Staging the input datasets
+2023-11-08 23:09:56,591 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 23:09:56,591 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column country and criteria ['United Kingdom', 'Netherlands']
+2023-11-08 23:09:56,630 - KommatiParaDataPrepApp - INFO - Dataset filtered successfully
+2023-11-08 23:09:56,638 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 23:09:56,638 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 23:09:56,638 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column None and criteria None
+2023-11-08 23:09:56,645 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 23:09:56,646 - KommatiParaDataPrepApp - INFO - Datasets staged successfully
+2023-11-08 23:09:56,646 - KommatiParaDataPrepApp - INFO - Integrating the two input datasets
+2023-11-08 23:09:56,679 - KommatiParaDataPrepApp - INFO - Datasets integrated successfully
+2023-11-08 23:09:56,679 - KommatiParaDataPrepApp - INFO - Transforming the dataset
+2023-11-08 23:09:56,679 - KommatiParaDataPrepApp - INFO - Renaming columns in the dataset
+2023-11-08 23:09:56,698 - KommatiParaDataPrepApp - INFO - Columns renamed successfully
+2023-11-08 23:09:56,699 - KommatiParaDataPrepApp - INFO - Dataset transformed successfully
+2023-11-08 23:09:56,699 - KommatiParaDataPrepApp - INFO - Writing the output dataset
+2023-11-08 23:11:44,820 - KommatiParaDataPrepApp - INFO - Running the application
+2023-11-08 23:11:49,842 - KommatiParaDataPrepApp - INFO - Reading the input datasets
+2023-11-08 23:11:54,807 - KommatiParaDataPrepApp - INFO - Datasets read successfully
+2023-11-08 23:11:54,807 - KommatiParaDataPrepApp - INFO - Staging the input datasets
+2023-11-08 23:11:54,807 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 23:11:54,807 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column country and criteria ['United Kingdom', 'Netherlands']
+2023-11-08 23:11:54,857 - KommatiParaDataPrepApp - INFO - Dataset filtered successfully
+2023-11-08 23:11:54,868 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 23:11:54,869 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 23:11:54,869 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column None and criteria None
+2023-11-08 23:11:54,879 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 23:11:54,879 - KommatiParaDataPrepApp - INFO - Datasets staged successfully
+2023-11-08 23:11:54,879 - KommatiParaDataPrepApp - INFO - Integrating the two input datasets
+2023-11-08 23:11:54,917 - KommatiParaDataPrepApp - INFO - Datasets integrated successfully
+2023-11-08 23:11:54,917 - KommatiParaDataPrepApp - INFO - Transforming the dataset
+2023-11-08 23:11:54,917 - KommatiParaDataPrepApp - INFO - Renaming columns in the dataset
+2023-11-08 23:11:54,936 - KommatiParaDataPrepApp - INFO - Columns renamed successfully
+2023-11-08 23:11:54,936 - KommatiParaDataPrepApp - INFO - Dataset transformed successfully
+2023-11-08 23:11:54,936 - KommatiParaDataPrepApp - INFO - Writing the output dataset
+2023-11-08 23:11:55,847 - KommatiParaDataPrepApp - INFO - Output dataset written successfully
+2023-11-08 23:11:55,847 - KommatiParaDataPrepApp - INFO - Application run successfully
+2023-11-08 23:18:28,477 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column country and criteria ['United Kingdom', 'Netherlands']
+2023-11-08 23:18:28,600 - KommatiParaDataPrepApp - INFO - Dataset filtered successfully
+2023-11-08 23:24:19,277 - KommatiParaDataPrepApp - INFO - Renaming columns in the dataset
+2023-11-08 23:24:19,370 - KommatiParaDataPrepApp - INFO - Columns renamed successfully
+2023-11-08 23:24:56,003 - KommatiParaDataPrepApp - INFO - Running the application
+2023-11-08 23:25:03,244 - KommatiParaDataPrepApp - INFO - Reading the input datasets
+2023-11-08 23:25:10,011 - KommatiParaDataPrepApp - INFO - Datasets read successfully
+2023-11-08 23:25:10,011 - KommatiParaDataPrepApp - INFO - Staging the input datasets
+2023-11-08 23:25:10,011 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 23:25:10,011 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column country and criteria ['United Kingdom', 'Netherlands']
+2023-11-08 23:25:10,083 - KommatiParaDataPrepApp - INFO - Dataset filtered successfully
+2023-11-08 23:25:10,094 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 23:25:10,095 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 23:25:10,095 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column None and criteria None
+2023-11-08 23:25:10,106 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 23:25:10,106 - KommatiParaDataPrepApp - INFO - Datasets staged successfully
+2023-11-08 23:25:10,106 - KommatiParaDataPrepApp - INFO - Integrating the two input datasets
+2023-11-08 23:25:10,169 - KommatiParaDataPrepApp - INFO - Datasets integrated successfully
+2023-11-08 23:25:10,169 - KommatiParaDataPrepApp - INFO - Transforming the dataset
+2023-11-08 23:25:10,169 - KommatiParaDataPrepApp - INFO - Renaming columns in the dataset
+2023-11-08 23:25:10,202 - KommatiParaDataPrepApp - INFO - Columns renamed successfully
+2023-11-08 23:25:10,202 - KommatiParaDataPrepApp - INFO - Dataset transformed successfully
+2023-11-08 23:25:10,202 - KommatiParaDataPrepApp - INFO - Writing the output dataset
+2023-11-08 23:25:11,626 - KommatiParaDataPrepApp - INFO - Output dataset written successfully
+2023-11-08 23:25:11,626 - KommatiParaDataPrepApp - INFO - Application run successfully
+2023-11-08 23:38:03,829 - KommatiParaDataPrepApp - INFO - Running the application
+2023-11-08 23:38:11,940 - KommatiParaDataPrepApp - INFO - Reading the input datasets
+2023-11-08 23:38:18,308 - KommatiParaDataPrepApp - INFO - Datasets read successfully
+2023-11-08 23:38:18,309 - KommatiParaDataPrepApp - INFO - Staging the input datasets
+2023-11-08 23:38:18,309 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 23:38:18,309 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column country and criteria ['United Kingdom', 'Netherlands']
+2023-11-08 23:38:18,360 - KommatiParaDataPrepApp - INFO - Dataset filtered successfully
+2023-11-08 23:38:18,371 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 23:38:18,371 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 23:38:18,371 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column None and criteria None
+2023-11-08 23:38:18,380 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 23:38:18,380 - KommatiParaDataPrepApp - INFO - Datasets staged successfully
+2023-11-08 23:38:18,380 - KommatiParaDataPrepApp - INFO - Integrating the two input datasets
+2023-11-08 23:38:18,429 - KommatiParaDataPrepApp - INFO - Datasets integrated successfully
+2023-11-08 23:38:18,429 - KommatiParaDataPrepApp - INFO - Transforming the dataset
+2023-11-08 23:38:18,429 - KommatiParaDataPrepApp - INFO - Renaming columns in the dataset
+2023-11-08 23:38:18,459 - KommatiParaDataPrepApp - INFO - Columns renamed successfully
+2023-11-08 23:38:18,459 - KommatiParaDataPrepApp - INFO - Dataset transformed successfully
+2023-11-08 23:38:18,459 - KommatiParaDataPrepApp - INFO - Writing the output dataset
+2023-11-08 23:38:19,692 - KommatiParaDataPrepApp - INFO - Output dataset written successfully
+2023-11-08 23:38:19,693 - KommatiParaDataPrepApp - INFO - Application run successfully
+2023-11-08 23:47:00,820 - KommatiParaDataPrepApp - INFO - Running the application
+2023-11-08 23:47:07,352 - KommatiParaDataPrepApp - INFO - Reading the input datasets
+2023-11-08 23:47:13,840 - KommatiParaDataPrepApp - INFO - Datasets read successfully
+2023-11-08 23:47:13,840 - KommatiParaDataPrepApp - INFO - Staging the input datasets
+2023-11-08 23:47:13,840 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 23:47:13,840 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column country and criteria ['United Kingdom', 'Netherlands']
+2023-11-08 23:47:13,896 - KommatiParaDataPrepApp - INFO - Dataset filtered successfully
+2023-11-08 23:47:13,905 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 23:47:13,906 - KommatiParaDataPrepApp - INFO - Cleaning the dataset
+2023-11-08 23:47:13,906 - KommatiParaDataPrepApp - INFO - Filtering the dataset based on column None and criteria None
+2023-11-08 23:47:13,917 - KommatiParaDataPrepApp - INFO - Dataset cleaned successfully
+2023-11-08 23:47:13,917 - KommatiParaDataPrepApp - INFO - Datasets staged successfully
+2023-11-08 23:47:13,917 - KommatiParaDataPrepApp - INFO - Integrating the two input datasets
+2023-11-08 23:47:13,979 - KommatiParaDataPrepApp - INFO - Datasets integrated successfully
+2023-11-08 23:47:13,979 - KommatiParaDataPrepApp - INFO - Transforming the dataset
+2023-11-08 23:47:13,979 - KommatiParaDataPrepApp - INFO - Renaming columns in the dataset
+2023-11-08 23:47:14,007 - KommatiParaDataPrepApp - INFO - Columns renamed successfully
+2023-11-08 23:47:14,007 - KommatiParaDataPrepApp - INFO - Dataset transformed successfully
+2023-11-08 23:47:14,007 - KommatiParaDataPrepApp - INFO - Writing the output dataset
+2023-11-08 23:47:15,130 - KommatiParaDataPrepApp - INFO - Output dataset written successfully
+2023-11-08 23:47:15,130 - KommatiParaDataPrepApp - INFO - Application run successfully

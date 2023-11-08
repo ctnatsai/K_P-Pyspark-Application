@@ -1,0 +1,54 @@
+"input_dataset_one_config":
+    "dataset" : "client_info"
+    "input_filepath" : "datasets/source/client_info_dataset.csv"
+    "output_filepath" : "datasets/staging/client_info_dataset.csv"
+
+    "primary_key" : "id"
+
+    "drop_columns" : ["first_name", "last_name"]
+    "filter_column" : "country"
+    "filter_criteria" : ["United Kingdom", "Netherlands"]
+
+    "source_schema":
+        "id" : "int"
+        "first_name" : "string"
+        "last_name" : "string"
+        "email": "string"
+        "country" : "string"
+
+"input_dataset_two_config":
+    "dataset" : "financial_info"
+    "input_filepath" : "datasets/source/financial_info_dataset.csv"
+    "output_filepath" : "datasets/staging/financial_info_dataset.csv"
+
+    "primary_key" : "id"
+
+    "drop_columns" : ["cc_n"]
+    "filter_column" : None
+    "filter_criteria" : None
+
+    "source_schema" :
+        "id" : "int"
+        "btc_a" : "string"
+        "cc_n" : "string"
+        "cc_t" : "string"
+
+"output_dataset_config":
+    "input_filepath" : "datasets/staging/client_info_dataset.csv"
+    "output_filepath" : "datasets/staging/financial_info_dataset.csv"
+
+    "primary_key" : "client_id"
+
+    "rename_columns" :
+        "id" : "client_identifier"
+        "btc_a" : "bitcoin_address"
+        "cc_t" : "credit_card_type"
+
+    "source_schema" :
+        "client_id" : "int"
+        "email" : "string"
+        "country" : "string"
+        "bitcoin_address" : "string"
+        "credit_card_type" : "string"
+
+
