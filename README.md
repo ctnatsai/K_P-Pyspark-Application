@@ -132,4 +132,3 @@ rotates the file when it reaches 1 MB, and keeps the latest 10 log files.
 4. The formatter object: formatter, which formats the log messages with the date and time, the name of the logger, 
 the level of the message, and the message itself.
 
-## Packaging
